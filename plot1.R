@@ -14,6 +14,7 @@
 
 ## loading libraries.
 library(datasets);
+Sys.setlocale(category="LC_TIME", locale="C");
 
 ######################################################################################
 ############################ LOADING and CLEANING PHASE ##############################
